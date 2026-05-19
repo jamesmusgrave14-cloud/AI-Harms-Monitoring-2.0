@@ -1,0 +1,261 @@
+{
+  "RA09 – Fraud, scams and financial crime": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "deepfake",
+      "voice cloning",
+      "chatbot",
+      "LLM",
+      "generative AI",
+      "agentic AI"
+    ],
+    "should": [
+      "fraud",
+      "scam",
+      "phishing",
+      "impersonation",
+      "money laundering",
+      "mule",
+      "romance scam",
+      "invoice fraud",
+      "synthetic identity"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "England",
+      "Wales",
+      "Scotland",
+      "Northern Ireland",
+      "NCA",
+      "Action Fraud",
+      "City of London Police",
+      "FCA",
+      "Home Office"
+    ]
+  },
+  "RA11a – Deepfake NCII and synthetic intimate image abuse": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "deepfake",
+      "synthetic media",
+      "generative AI",
+      "nudify",
+      "image generator"
+    ],
+    "should": [
+      "NCII",
+      "non-consensual intimate",
+      "intimate image",
+      "image-based abuse",
+      "deepfake pornography",
+      "nudify",
+      "synthetic intimate",
+      "revenge porn"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "Ofcom",
+      "NSPCC",
+      "IWF",
+      "SWGfL",
+      "police",
+      "Home Office"
+    ]
+  },
+  "RA11b – Other AI-enabled VAWG behaviours": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "chatbot",
+      "LLM",
+      "generative AI",
+      "voice cloning",
+      "deepfake"
+    ],
+    "should": [
+      "VAWG",
+      "violence against women",
+      "stalking",
+      "harassment",
+      "coercion",
+      "controlling behaviour",
+      "audio abuse",
+      "sextortion",
+      "grooming",
+      "chatbot abuse"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "Ofcom",
+      "NSPCC",
+      "Refuge",
+      "police",
+      "Home Office"
+    ]
+  },
+  "RA11c – Child sexual abuse and exploitation": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "deepfake",
+      "synthetic media",
+      "generative AI",
+      "LoRA",
+      "image generator"
+    ],
+    "should": [
+      "CSAM",
+      "CSEA",
+      "child sexual abuse",
+      "child exploitation",
+      "grooming",
+      "child safety",
+      "Hugging Face",
+      "LoRA"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "IWF",
+      "NSPCC",
+      "NCA",
+      "TCSAU",
+      "Ofcom",
+      "police",
+      "Home Office"
+    ]
+  },
+  "RA13 – Terrorism and extremism": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "deepfake",
+      "chatbot",
+      "LLM",
+      "generative AI",
+      "agentic AI"
+    ],
+    "should": [
+      "terrorism",
+      "extremism",
+      "radicalisation",
+      "radicalization",
+      "propaganda",
+      "recruitment",
+      "attack planning",
+      "weapon instructions"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "CONTEST",
+      "Prevent",
+      "MI5",
+      "police",
+      "Home Office"
+    ]
+  },
+  "RA14 – Illegal items and cyber-enabled crime": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "LLM",
+      "generative AI",
+      "agent",
+      "automation",
+      "agentic AI"
+    ],
+    "should": [
+      "malware",
+      "ransomware",
+      "exploit",
+      "jailbreak",
+      "prompt injection",
+      "weapons",
+      "drugs",
+      "dark web",
+      "counterfeit",
+      "vulnerability",
+      "cybercrime"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "NCSC",
+      "NCA",
+      "police",
+      "Home Office"
+    ]
+  },
+  "Cross-cutting – Realistic fakes, evidence, identity and public trust": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "deepfake",
+      "synthetic media",
+      "generative AI",
+      "image generator",
+      "voice cloning"
+    ],
+    "should": [
+      "false evidence",
+      "fake documents",
+      "identity",
+      "border",
+      "immigration",
+      "liar's dividend",
+      "public trust",
+      "misinformation",
+      "realistic fake"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "court",
+      "police",
+      "CPS",
+      "Home Office"
+    ]
+  },
+  "Cross-cutting – Offender upskilling and capability uplift": {
+    "must": [
+      "AI",
+      "artificial intelligence",
+      "LLM",
+      "chatbot",
+      "generative AI",
+      "agentic AI"
+    ],
+    "should": [
+      "instructions",
+      "how to",
+      "automation",
+      "upskilling",
+      "capability uplift",
+      "crime-as-a-service",
+      "jailbreak",
+      "operational guidance"
+    ],
+    "uk_boost": [
+      "UK",
+      "Britain",
+      "British",
+      "NCA",
+      "NCSC",
+      "police",
+      "Home Office"
+    ]
+  }
+}

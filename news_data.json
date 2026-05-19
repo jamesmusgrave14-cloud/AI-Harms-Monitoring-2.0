@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "ok": true,
+    "generatedAt": null,
+    "note": "Run npm run scan locally, or deploy via GitHub Actions.",
+    "feedbackApplied": true
+  },
+  "articles": []
+}
